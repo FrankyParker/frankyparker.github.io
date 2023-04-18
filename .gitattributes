@@ -1,2 +1,0 @@
-*.json filter=lfs diff=lfs merge=lfs -text
-C:/Users/fparker/Documents/Local[[:space:]]Development/Maps/GatewayData/frankyparker.github.io/K12.json filter=lfs diff=lfs merge=lfs -text
